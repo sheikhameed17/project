@@ -1,0 +1,22 @@
+body{
+    background-image: url();
+     background-color: rgb(241, 236, 236);
+ }
+ #p1{
+     text-align: center;
+     font-family: Impact;
+     font-size:200%;
+     color: aliceblue;
+     background-color: green;
+ }
+ .table{
+    background-image: url(https://images.alphacoders.com/240/thumbbig-240273.webp);
+    
+    background-color: aliceblue;
+    display: grid;
+    place-items: center;
+ }
+ p{
+    font-weight: 1000;
+    color:blue;
+ }
